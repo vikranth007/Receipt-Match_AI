@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/vikranth007/Receipt-Match_AI">
-    <img src="Images/Logo.png" alt="Receipt-Match_AI Logo" width="200"/>
+    <img src="https://github.com/vikranth007/Receipt-Match_AI/blob/main/images/Logo.png" alt="Receipt-Match_AI Logo" width="200"/>
   </a>
   <h1 align="center" style="font-size: 3.5rem; font-weight: bold; margin-bottom: 0;">Receipt-Match_AI</h1>
   <p align="center" style="font-size: 1.75rem; margin-top: 0;">
@@ -46,21 +46,21 @@ Tired of the soul-crushing task of manual receipt reconciliation? **ReceiptMatch
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Images/Dashboard.png" alt="Dashboard" width="450"/>
+      <img src="https://github.com/vikranth007/Receipt-Match_AI/blob/main/images/Dashboard.png" alt="Dashboard" width="450"/>
       <br><b>📄 Dashboard</b>
     </td>
     <td align="center" width="50%">
-      <img src="Images/BankStatement.png" alt="Bank Statement" width="450"/>
+      <img src="https://github.com/vikranth007/Receipt-Match_AI/blob/main/images/BankStatement.png" alt="Bank Statement" width="450"/>
       <br><b>🏦 Bank Statement</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Images/Analytics.png" alt="Analytics" width="450"/>
+      <img src="https://github.com/vikranth007/Receipt-Match_AI/blob/main/images/Analytics.png" alt="Analytics" width="450"/>
       <br><b>📊 Analytics</b>
     </td>
     <td align="center" width="50%">
-      <img src="Images/Reconcilation.png" alt="Reconciliation" width="450"/>
+      <img src="https://github.com/vikranth007/Receipt-Match_AI/blob/main/images/Reconcilation.png" alt="Reconciliation" width="450"/>
       <br><b>🎯 Reconciliation</b>
     </td>
   </tr>
